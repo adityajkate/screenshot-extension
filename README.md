@@ -62,7 +62,7 @@ Preview your screenshot, then **Copy** to clipboard or **Download** to save.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/capture-extension.git
+git clone https://github.com/adityajkate/capture-extension.git
 
 # Load in browser
 # Navigate to brave://extensions/
@@ -88,7 +88,7 @@ MIT License - Free to use and modify.
 
 ## Credits
 
-Created with ♡ by [Aditya Kate](https://github.com/yourusername)
+Created with ♡ by [Aditya Kate](https://github.com/adityajkate)
 
 ---
 
