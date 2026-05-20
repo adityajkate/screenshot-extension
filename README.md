@@ -56,7 +56,7 @@ Preview your screenshot, then **Copy** to clipboard or **Download** to save.
 
 ## Screenshots
 
-*Coming soon*
+![Capture Extension Screenshot](screenshot.png)
 
 ## Development
 
