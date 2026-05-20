@@ -7,12 +7,12 @@ A professional screenshot extension for Brave and Chromium browsers with award-w
 
 ## Features
 
-- **Viewport Capture** — High-quality screenshots of visible area
-- **Full Page Capture** — Intelligent scrolling and stitching for entire pages
-- **Preview System** — Review before saving or copying
-- **One-Click Copy** — Direct clipboard integration
-- **Professional UI** — Premium typography, custom animations, lucid icons
-- **60fps Performance** — GPU-accelerated with custom easing curves
+- **Viewport Capture** - High-quality screenshots of visible area
+- **Full Page Capture** - Intelligent scrolling and stitching for entire pages
+- **Preview System** - Review before saving or copying
+- **One-Click Copy** - Direct clipboard integration
+- **Professional UI** - Premium typography, custom animations, lucid icons
+- **60fps Performance** - GPU-accelerated with custom easing curves
 
 ## Installation
 
@@ -26,8 +26,8 @@ A professional screenshot extension for Brave and Chromium browsers with award-w
 
 Click the extension icon and choose your capture mode:
 
-- **Viewport** — Captures what's currently visible on screen
-- **Full Page** — Captures the entire scrollable webpage
+- **Viewport** - Captures what's currently visible on screen
+- **Full Page** - Captures the entire scrollable webpage
 
 Preview your screenshot, then **Copy** to clipboard or **Download** to save.
 
