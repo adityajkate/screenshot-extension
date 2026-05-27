@@ -1,6 +1,6 @@
 # Capture
 
-A professional screenshot extension for Brave and Chromium browsers with award-winning UI design.
+A professional screenshot extension for Brave and Chromium browsers.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
