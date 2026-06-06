@@ -90,6 +90,7 @@ MIT License - Free to use and modify.
 
 Created with ♡ by [Aditya Kate](https://github.com/adityajkate)
 
+follow me on ig : @adiikate
 ---
 
 **Note**: This extension cannot capture browser internal pages (brave://, chrome://) due to browser security restrictions.
