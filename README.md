@@ -1,4 +1,4 @@
-# Capture
+# Capture (Screenshot - Browser)
 
 A professional screenshot extension for Brave and Chromium browsers.
 
