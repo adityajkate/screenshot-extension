@@ -5,7 +5,7 @@ A professional screenshot extension for Brave and Chromium browsers.
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-## Features
+## Feature
 
 - **Viewport Capture** - High-quality screenshots of visible area
 - **Full Page Capture** - Intelligent scrolling and stitching for entire pages
