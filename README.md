@@ -17,7 +17,7 @@ A professional screenshot extension for Brave and Chromium browser.
 ## Installation
 
 1. Download or clone this repository
-2. Open Brave browser and navigate to `brave://extensions/`
+2. Open Brave browser and navigate to `chrome://extensions/`
 3. Enable **Developer mode** (top-right toggle)
 4. Click **Load unpacked** and select the extension folder
 5. Pin the extension to your toolbar (optional)
